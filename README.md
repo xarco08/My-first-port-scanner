@@ -1,3 +1,2 @@
 # My-first-port-scanner
-here  I provide my first port scanner in bash using nmap 
-I am planning to make one in python3 next
+here  I provide my first port scanner in bash using nmap  I am planning to make one in python3 next  ==USAGE==  to use this script clone this repository with git clone and the URL of this rep,  then cd into the directory and give execution priviledges to the .sh file by using chmod +x customscan.sh ,  lastly to scan an ip -> ./customscan.sh <IP>  this is just a fast basic scanner that shosw the TCP ports open on the target and saves a report in Grep format called "scan"
